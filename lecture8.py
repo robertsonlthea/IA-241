@@ -59,5 +59,5 @@ def cal_f(m):
 def cal_p(m,n):
     return cal_f(m)/cal_f(m-n)
     
-print(cal_p(6,4))
+#print(cal_p(6,4))
     
