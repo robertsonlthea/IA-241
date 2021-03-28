@@ -13,3 +13,9 @@ Share my labs and final project for IA 241.
 3rd paragraphs
 
 ### level 3 heading 
+
+**bold**
+
+*italicize*
+
+> quote
